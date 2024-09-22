@@ -1,6 +1,6 @@
 pkgbase = dpp-bin
 	pkgdesc = Lightweight and Scalable C++ Discord API Bot Library - binary version
-	pkgver = 10.0.30
+	pkgver = 10.0.31
 	pkgrel = 1
 	url = https://dpp.dev/
 	install = dpp-bin.install
@@ -14,8 +14,8 @@ pkgbase = dpp-bin
 	depends = opus
 	depends = libsodium
 	depends = nlohmann-json
-	source = https://raw.githubusercontent.com/Neko-Life-aur/dpp-bin-artifacts/main/dpp-10.0.30-1-x86_64.pkg.tar.zst
+	source = https://raw.githubusercontent.com/Neko-Life-aur/dpp-bin-artifacts/main/dpp-10.0.31-1-x86_64.pkg.tar.zst
 	validpgpkeys = 988B124407F072AACFA92D2F52B5096DD205E14A
-	sha256sums = e97e7c776627f67d613bf6850e16618f108d71fe3f731eb651efef63216c989a
+	sha256sums = 4cc0470121e804dc7e2b3b26d68f64dac0e9b0559535312050dca41be3cfeb6c
 
 pkgname = dpp-bin
